@@ -1,0 +1,3 @@
+# Daily-Journay
+This is a journal website, where , you can create a new journal post using : "/compose" in the url, itis build with express and EJS
+It also has a few other features, like read more, redirecting...
